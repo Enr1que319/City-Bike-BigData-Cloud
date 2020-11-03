@@ -9,7 +9,8 @@ Citi Bike is available for use 24 hours/day, 7 days/week, 365 days/year, and rid
 The task
 ----
 
-The objective of this project is process citi-bikes data obtained from [Official CitiBike Data Web Page](https://s3.amazonaws.com/tripdata/index.html) in the cloud to storage a daily basis
+The objective of this project is process citi-bikes data obtained from [Official CitiBike Data Web Page](https://s3.amazonaws.com/tripdata/index.html) in the cloud to storage a daily basis DataWarehouse
+
 Tools that were used to accomplish this task:
 
 - Python

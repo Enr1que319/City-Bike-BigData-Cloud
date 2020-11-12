@@ -39,6 +39,8 @@ The data includes:
 - Gender (Zero=unknown; 1=male; 2=female)
 - Year of Birth
 
+Note: The information could not be uploaded to the repository since it exceeds the maximum weight that Github establishes
+
 Process
 ----
 
